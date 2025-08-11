@@ -6,9 +6,9 @@ This repository contains the website for the JPlayer iOS app, including privacy 
 
 The website is deployed via GitHub Pages at:
 
-- **Home Page**: https://jpathak.github.io/mpv-ios-website/
-- **Privacy Policy**: https://jpathak.github.io/mpv-ios-website/privacy.html
-- **Support Page**: https://jpathak.github.io/mpv-ios-website/support.html
+- **Home Page**: https://jpathak.github.io/jplayer-ios-website/
+- **Privacy Policy**: https://jpathak.github.io/jplayer-ios-website/privacy.html
+- **Support Page**: https://jpathak.github.io/jplayer-ios-website/support.html
 
 ## About
 
